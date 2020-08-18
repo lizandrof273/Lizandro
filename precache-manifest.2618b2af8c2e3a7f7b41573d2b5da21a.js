@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df1ca5668ffbcdd75edafc52182bee1d",
+    "revision": "8820f95d2ca62a3f5aff322867b5a508",
     "url": "/Lizandro/index.html"
   },
   {
-    "revision": "2f926d48750db8025918",
+    "revision": "ef390f8d7494bc207b77",
     "url": "/Lizandro/static/css/main.323ac80f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lizandro/static/js/2.88b8f7cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f926d48750db8025918",
-    "url": "/Lizandro/static/js/main.baa755ea.chunk.js"
+    "revision": "ef390f8d7494bc207b77",
+    "url": "/Lizandro/static/js/main.decb22c1.chunk.js"
   },
   {
     "revision": "339abdeda1dce99b059d",

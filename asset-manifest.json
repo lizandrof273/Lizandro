@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Lizandro/static/css/main.323ac80f.chunk.css",
-    "main.js": "/Lizandro/static/js/main.baa755ea.chunk.js",
-    "main.js.map": "/Lizandro/static/js/main.baa755ea.chunk.js.map",
+    "main.js": "/Lizandro/static/js/main.decb22c1.chunk.js",
+    "main.js.map": "/Lizandro/static/js/main.decb22c1.chunk.js.map",
     "runtime-main.js": "/Lizandro/static/js/runtime-main.4ee4791c.js",
     "runtime-main.js.map": "/Lizandro/static/js/runtime-main.4ee4791c.js.map",
     "static/js/2.88b8f7cb.chunk.js": "/Lizandro/static/js/2.88b8f7cb.chunk.js",
     "static/js/2.88b8f7cb.chunk.js.map": "/Lizandro/static/js/2.88b8f7cb.chunk.js.map",
     "index.html": "/Lizandro/index.html",
-    "precache-manifest.a728977bc865960edbb3e4c296afcd65.js": "/Lizandro/precache-manifest.a728977bc865960edbb3e4c296afcd65.js",
+    "precache-manifest.2618b2af8c2e3a7f7b41573d2b5da21a.js": "/Lizandro/precache-manifest.2618b2af8c2e3a7f7b41573d2b5da21a.js",
     "service-worker.js": "/Lizandro/service-worker.js",
     "static/css/main.323ac80f.chunk.css.map": "/Lizandro/static/css/main.323ac80f.chunk.css.map",
     "static/js/2.88b8f7cb.chunk.js.LICENSE.txt": "/Lizandro/static/js/2.88b8f7cb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4ee4791c.js",
     "static/js/2.88b8f7cb.chunk.js",
     "static/css/main.323ac80f.chunk.css",
-    "static/js/main.baa755ea.chunk.js"
+    "static/js/main.decb22c1.chunk.js"
   ]
 }
