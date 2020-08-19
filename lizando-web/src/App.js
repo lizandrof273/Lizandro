@@ -1,18 +1,17 @@
 import React from 'react';
-//import {BrowserRouter as Router, Route, Link } from 'react-router-dom';
-//import Container from 'react-bootstrap/Container';
-//import Navbar from 'react-bootstrap/Navbar';
-//import Nav from 'react-bootstrap/Nav';
 import './App.css';
-import Stylesheet from './Stylesheet';
 import { Header } from './Header.js';
-
+import { Nav } from './Nav.js';
 
 class App extends React.Component {
   
   render() {
     return (
+      <>
       <Header />
+      <Nav />
+    </> 
+      
       //<div>Under Construction</div>
     );
   }

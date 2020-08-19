@@ -8,3 +8,4 @@ export const Header = () =>
     <p>(Under Construction)</p>
     <a class="btn" href="">About me</a>  
  </div>
+ 
