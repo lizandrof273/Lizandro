@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Lizandro/static/css/main.dd3752b5.chunk.css",
-    "main.js": "/Lizandro/static/js/main.ff3bb826.chunk.js",
-    "main.js.map": "/Lizandro/static/js/main.ff3bb826.chunk.js.map",
+    "main.css": "/Lizandro/static/css/main.72d2d829.chunk.css",
+    "main.js": "/Lizandro/static/js/main.f87ff7f4.chunk.js",
+    "main.js.map": "/Lizandro/static/js/main.f87ff7f4.chunk.js.map",
     "runtime-main.js": "/Lizandro/static/js/runtime-main.4ee4791c.js",
     "runtime-main.js.map": "/Lizandro/static/js/runtime-main.4ee4791c.js.map",
-    "static/js/2.5aad1e36.chunk.js": "/Lizandro/static/js/2.5aad1e36.chunk.js",
-    "static/js/2.5aad1e36.chunk.js.map": "/Lizandro/static/js/2.5aad1e36.chunk.js.map",
+    "static/js/2.7e73bf12.chunk.js": "/Lizandro/static/js/2.7e73bf12.chunk.js",
+    "static/js/2.7e73bf12.chunk.js.map": "/Lizandro/static/js/2.7e73bf12.chunk.js.map",
     "index.html": "/Lizandro/index.html",
-    "precache-manifest.47752f4ac1a539c2ecd1fdcae7b3e80a.js": "/Lizandro/precache-manifest.47752f4ac1a539c2ecd1fdcae7b3e80a.js",
+    "precache-manifest.583e8561f534517efc4f63e46c07b943.js": "/Lizandro/precache-manifest.583e8561f534517efc4f63e46c07b943.js",
     "service-worker.js": "/Lizandro/service-worker.js",
-    "static/css/main.dd3752b5.chunk.css.map": "/Lizandro/static/css/main.dd3752b5.chunk.css.map",
-    "static/js/2.5aad1e36.chunk.js.LICENSE.txt": "/Lizandro/static/js/2.5aad1e36.chunk.js.LICENSE.txt"
+    "static/css/main.72d2d829.chunk.css.map": "/Lizandro/static/css/main.72d2d829.chunk.css.map",
+    "static/js/2.7e73bf12.chunk.js.LICENSE.txt": "/Lizandro/static/js/2.7e73bf12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4ee4791c.js",
-    "static/js/2.5aad1e36.chunk.js",
-    "static/css/main.dd3752b5.chunk.css",
-    "static/js/main.ff3bb826.chunk.js"
+    "static/js/2.7e73bf12.chunk.js",
+    "static/css/main.72d2d829.chunk.css",
+    "static/js/main.f87ff7f4.chunk.js"
   ]
 }
