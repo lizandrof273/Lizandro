@@ -4,13 +4,15 @@ import React from 'react';
 //import Navbar from 'react-bootstrap/Navbar';
 //import Nav from 'react-bootstrap/Nav';
 import './App.css';
+import { Header } from './Header.js';
 
 
 class App extends React.Component {
   
   render() {
     return (
-      <div>Under Construction</div>
+      <Header />
+      //<div>Under Construction</div>
     );
   }
 }
