@@ -6,6 +6,6 @@ export const Header = () =>
     <h1>Lizandro Franco</h1>
     <p>Learn more about me!</p>
     <p>(Under Construction)</p>
-    <a class="btn" href="">About me</a>  
+    <a class="btn" href="#down">About me</a>  
  </div>
- 
+

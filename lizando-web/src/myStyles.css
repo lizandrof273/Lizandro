@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
   }
   
   body {
@@ -144,3 +145,8 @@ html, body {
     .main img {
       width: 100%;
     }
+
+    #down {
+        margin-top: 100%;
+        padding-bottom: 25%;
+       } 
