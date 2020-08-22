@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Lizandro/precache-manifest.534096e4971c36164f003408f820f641.js"
+  "/Lizandro/precache-manifest.48f09418924530cefe54daaafde9216b.js"
 );
 
 self.addEventListener('message', (event) => {

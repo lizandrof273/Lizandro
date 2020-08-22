@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Lizandro/static/css/main.7fe9c38e.chunk.css",
-    "main.js": "/Lizandro/static/js/main.814efdbd.chunk.js",
-    "main.js.map": "/Lizandro/static/js/main.814efdbd.chunk.js.map",
+    "main.css": "/Lizandro/static/css/main.de0d0a5a.chunk.css",
+    "main.js": "/Lizandro/static/js/main.1bdf42e8.chunk.js",
+    "main.js.map": "/Lizandro/static/js/main.1bdf42e8.chunk.js.map",
     "runtime-main.js": "/Lizandro/static/js/runtime-main.4ee4791c.js",
     "runtime-main.js.map": "/Lizandro/static/js/runtime-main.4ee4791c.js.map",
-    "static/js/2.7e73bf12.chunk.js": "/Lizandro/static/js/2.7e73bf12.chunk.js",
-    "static/js/2.7e73bf12.chunk.js.map": "/Lizandro/static/js/2.7e73bf12.chunk.js.map",
+    "static/js/2.c035dcc5.chunk.js": "/Lizandro/static/js/2.c035dcc5.chunk.js",
+    "static/js/2.c035dcc5.chunk.js.map": "/Lizandro/static/js/2.c035dcc5.chunk.js.map",
     "index.html": "/Lizandro/index.html",
-    "precache-manifest.534096e4971c36164f003408f820f641.js": "/Lizandro/precache-manifest.534096e4971c36164f003408f820f641.js",
+    "precache-manifest.48f09418924530cefe54daaafde9216b.js": "/Lizandro/precache-manifest.48f09418924530cefe54daaafde9216b.js",
     "service-worker.js": "/Lizandro/service-worker.js",
-    "static/css/main.7fe9c38e.chunk.css.map": "/Lizandro/static/css/main.7fe9c38e.chunk.css.map",
-    "static/js/2.7e73bf12.chunk.js.LICENSE.txt": "/Lizandro/static/js/2.7e73bf12.chunk.js.LICENSE.txt"
+    "static/css/main.de0d0a5a.chunk.css.map": "/Lizandro/static/css/main.de0d0a5a.chunk.css.map",
+    "static/js/2.c035dcc5.chunk.js.LICENSE.txt": "/Lizandro/static/js/2.c035dcc5.chunk.js.LICENSE.txt",
+    "static/media/me.png": "/Lizandro/static/media/me.85dca5e8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4ee4791c.js",
-    "static/js/2.7e73bf12.chunk.js",
-    "static/css/main.7fe9c38e.chunk.css",
-    "static/js/main.814efdbd.chunk.js"
+    "static/js/2.c035dcc5.chunk.js",
+    "static/css/main.de0d0a5a.chunk.css",
+    "static/js/main.1bdf42e8.chunk.js"
   ]
 }
