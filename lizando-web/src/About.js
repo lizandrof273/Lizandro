@@ -1,9 +1,11 @@
 import React, { Component }  from 'react';
 import './myStyles.css'
+import me from './me.png';
 
 export const About = () => 
 <div className={`main container`}>
-        <img src="./me.png" width="150" height="150"/>
+        <img src={me} width='160' height='170' class ="rcorners4"/> 
+        
         <h2>About me</h2>
         <p> I am an aspiring Software Engineer with passion to create. Currently studying computer science 
             and data science at the University of California, Berkeley. I am employed by the school as a Data Analyst, 
