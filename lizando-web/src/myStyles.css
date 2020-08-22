@@ -9,8 +9,7 @@
       }
       
       .container {
-        margin: 0 auto;
-        
+        margin: 0 auto;   
         padding: 0 10px;
       }
       
@@ -103,7 +102,7 @@
       
       .jumbotron {
         background: black;
-        background: -webkit-linear-gradient(rgba(148, 0, 211, 0.2), rgba(0, 0, 0, 1)), url(https://toledolibrary.s3.amazonaws.com/uploads/images/blog/_large/We-Shall-Overcome-featured-image-resized.jpg);
+        background: -webkit-linear-gradient(rgba(148, 0, 211, 0.2), rgba(0, 0, 0, 1)), url(https://images.unsplash.com/photo-1597892657493-6847b9640bac?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9);
         background-size: cover;
         height: 600px;
       }
