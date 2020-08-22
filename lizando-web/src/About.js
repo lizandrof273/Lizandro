@@ -3,7 +3,7 @@ import './myStyles.css'
 
 export const About = () => 
 <div className={`main container`}>
-        <img src="me.png" alt="HTML5 Icon" width="150" height="150"/>
+        <img src="./me.png" width="150" height="150"/>
         <h2>About me</h2>
         <p> I am an aspiring Software Engineer with passion to create. Currently studying computer science 
             and data science at the University of California, Berkeley. I am employed by the school as a Data Analyst, 

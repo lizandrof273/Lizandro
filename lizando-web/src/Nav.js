@@ -5,7 +5,7 @@ export const Nav = () =>
 <div className={`nav container`}id ="down">
         <ul>
           <li>Projects</li>
-          <li>Github</li>
-          <li>Social</li>
+          <li>Resume</li>
+          <li>Skill Set</li>
         </ul> 
  </div>
